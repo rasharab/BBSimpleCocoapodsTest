@@ -2,8 +2,8 @@
 //  Flavor.swift
 //  BBSimpleCocoapods
 //
-//  Created by Joshua Greene on 1/16/15.
-//  Copyright (c) 2015 Razeware, LLC. All rights reserved.
+
+
 //
 
 import UIKit

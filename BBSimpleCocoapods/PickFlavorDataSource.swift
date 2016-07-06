@@ -2,8 +2,8 @@
 //  PickFlavorDataSource.swift
 //  BBSimpleCocoapods
 //
-//  Created by Joshua Greene on 2/8/15.
-//  Copyright (c) 2015 Razeware, LLC. All rights reserved.
+
+
 //
 
 import UIKit
